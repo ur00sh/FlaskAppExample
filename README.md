@@ -1,2 +1,2 @@
 # FlaskAppExample
-Simple web app using Python Flask module, flask-mysql module and mysql as backend
+Simple web app using Python Flask module, connected with a MySQL database
