@@ -16,7 +16,6 @@ def main():
 def signup():
     return render_template('signup.html')
 
-#definisanje stranice koja se pojavljuje nakon uspesnog unosenja podataka
 
 #definisanje POST metode
 @app.route('/api/signup', methods=['POST'])
